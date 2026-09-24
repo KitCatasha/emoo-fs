@@ -2,6 +2,10 @@
 
 ### Adapting Ensemble Multi-Objective Optimisation for Omics Feature Selection
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Feature%20Selection-green)
+![Optimisation](https://img.shields.io/badge/Optimisation-NSGA--II-orange)
+
 The original EMOO framework was developed for hyperparameter optimisation by Moradpour et al. (2026) [1]. In this project, I adapted the framework for feature selection.
 
 In EMOO-FS, candidate solutions are represented as binary feature masks, where selected genes are encoded as 1 and excluded genes as 0. NSGA-II is used to search for feature subsets that optimise multiple objectives simultaneously: accuracy, specificity, sensitivity, F1-score, metric stability, and the number of selected features. The resulting subsets are evaluated using a Random Forest classifier.
