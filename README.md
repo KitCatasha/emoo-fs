@@ -205,10 +205,10 @@ This project was developed as part of my M.Sc. Computational Biology and Bioinfo
 
 Interactive 3D Pareto-front comparisons between EMOO-FS and MOOF are available for each pre-filter size:
 
-- [Top 500 genes](interactive/S1_Pareto_EMOO_vs_MOOF_top500.html)
-- [Top 300 genes](interactive/S2_Pareto_EMOO_vs_MOOF_top300.html)
-- [Top 200 genes](interactive/S3_Pareto_EMOO_vs_MOOF_top200.html)
-- [Top 100 genes](interactive/S4_Pareto_EMOO_vs_MOOF_top100.html)
+- [Explore Top 500 genes](interactive/S1_Pareto_EMOO_vs_MOOF_top500.html)
+- [Explore Top 300 genes](interactive/S2_Pareto_EMOO_vs_MOOF_top300.html)
+- [Explore Top 200 genes](interactive/S3_Pareto_EMOO_vs_MOOF_top200.html)
+- [Explore Top 100 genes](interactive/S4_Pareto_EMOO_vs_MOOF_top100.html)
 
 ---
 
